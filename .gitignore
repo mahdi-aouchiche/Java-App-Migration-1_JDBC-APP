@@ -1,0 +1,27 @@
+# Compiled output
+bin/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse-specific files
+.metadata/
+.project
+.classpath
+.settings/
+*.launch
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# External tool builders
+.externalToolBuilders/
+
+# Logs and dependencies
+logs/
+*.log
+node_modules/
